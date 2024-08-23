@@ -25,7 +25,7 @@ The Task Management System is a web application designed to help users efficient
 
 1. Clone the project
 2. Navigate to the project's root directory using terminal
-3. Create .env file - cp .env.example .env
+3. Create .env file - cp .env.example .env\
    Update the .env file with your database credentials
 4. Execute composer install
 5. Execute npm install
